@@ -11,10 +11,4 @@ Python and Data Science student.
 
 
 ## Projetos:
-* **
-
----
-
-
-
-
+* Analisando os dados do Airbnb (Berlim): https://bit.ly/3jjEdl8
