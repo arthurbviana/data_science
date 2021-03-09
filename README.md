@@ -11,5 +11,6 @@ Python and Data Science student.
 
 
 ## Projetos:
-* Analisando os dados do Airbnb (Berlim): http://bit.ly/2Llx1s7
-* Analisando a violência no Rio de Janeiro: http://bit.ly/3d59p6r
+* Analisando os Dados do Airbnb (Berlim): http://bit.ly/2Llx1s7
+* Analisando a Violência no Rio de Janeiro: http://bit.ly/3d59p6r
+* Panorama do COVID-19 no Brasil: http://bit.ly/3t5rTsf
